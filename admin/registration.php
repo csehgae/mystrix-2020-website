@@ -79,46 +79,6 @@
 			</ul>
 		  </div>
 		</nav>
-		<nav class="navbar navbar-inverse">
-		  <div class="container-fluid">
-			<div class="navbar-header">
-			  <img class="navbar-brand" src="./assets/images/mystrix_fill_white.svg"><img>
-			  <a class="navbar-brand" onclick="window.location.reload();" href=""><b>MYSTRIX</b></a>
-			</div>
-			<ul class="nav navbar-nav">
-			  <li><a href="./home.php">Home</a></li>
-			  <li class="active"><a href="">Registration</a></li>
-			  <li><a href="./stats.php">Statistics</a></li>
-			  <li><a href="./certificate.php">Certificates</a></li>
-			  <li><a href="#"></a></li>
-			  
-			</ul>
-			<ul class="nav navbar-nav navbar-right">
-			  <li><a href="#user"><span class="glyphicon glyphicon-user"></span><b> Welcome <?php echo $login_session; ?></b></a></li>
-			  <li><a href="./logout.php"><span class="glyphicon glyphicon-log-out"></span>Log Out</a></li>
-			</ul>
-		  </div>
-		</nav>
-		<nav class="navbar navbar-inverse">
-		  <div class="container-fluid">
-			<div class="navbar-header">
-			  <img class="navbar-brand" src="./assets/images/mystrix_fill_white.svg"><img>
-			  <a class="navbar-brand" onclick="window.location.reload();" href=""><b>MYSTRIX</b></a>
-			</div>
-			<ul class="nav navbar-nav">
-			  <li><a href="./home.php">Home</a></li>
-			  <li class="active"><a href="">Registration</a></li>
-			  <li><a href="./stats.php">Statistics</a></li>
-			  <li><a href="./certificate.php">Certificates</a></li>
-			  <li><a href="#"></a></li>
-			  
-			</ul>
-			<ul class="nav navbar-nav navbar-right">
-			  <li><a href="#user"><span class="glyphicon glyphicon-user"></span><b> Welcome <?php echo $login_session; ?></b></a></li>
-			  <li><a href="./logout.php"><span class="glyphicon glyphicon-log-out"></span>Log Out</a></li>
-			</ul>
-		  </div>
-		</nav>
 
 		<div class="container">
 		  <h2><b>MYSTRIX</b> Registration</h2>
