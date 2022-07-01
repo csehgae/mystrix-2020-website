@@ -1,0 +1,154 @@
+{
+    "big": [{
+        "heading": "The official list of events are here.",
+        "tooltip": "Through the arcades of Mystrix 2020, find what interests you and register before the zeal quenches. Early birds are promised freebies. In case of any doubts, feel free to contact the coordinators. Anytime.",
+        "pic": "n1.jpg"
+    }],
+    "small": [{
+        "date": "03-Feb-2020, Monday",
+        "heading": "09:00am INAUGURATION MYSTRIX JUNIOR",
+        "tooltip": ""
+    }, {
+        "date": "",
+        "heading": "11:00am REGISTRATION",
+        "tooltip": ""
+    }, {
+        "date": "",
+        "heading": "11:30am QUIZ COMPETITION",
+        "tooltip": "Preliminary Round"
+    }, {
+        "date": "",
+        "heading": "12:15am GREEN INITIATIVE ",
+        "tooltip": " 'Plant A Tree' "
+    }, {
+        "date": "",
+        "heading": "02:00pm QUIZ FINALE",
+        "tooltip": " Quiz Master"
+    }, {
+        "date": "",
+        "heading": "03:15pm CLOSING CEREMONY & PRIZE DISTRIBUTION",
+        "tooltip": " "
+    }, {
+        "date": "04-FEB-2020 TUESDAY ",
+        "heading": "09:00am INAUGURATION MYSTRIX",
+        "tooltip": ""
+    }, {
+        "date": "",
+        "heading": "10:00am TECH TALK ",
+        "tooltip": "NUCLEAR POWER (NEED, PERCEPTION AND REALITY)"
+    }, {
+        "date": "",
+        "heading": "10:00am WORKSHOP",
+        "tooltip": "ROBOTICS"
+    }, {
+        "date": "",
+        "heading": "10:30am EVENT",
+        "tooltip": "FAST FINGERS"
+    }, {
+        "date": "",
+        "heading": "10:30am WORKSHOP ",
+        "tooltip": "MACHINE LEARNING"
+    }, {
+        "date": "",
+        "heading": "11:30am EVENT",
+        "tooltip": "BLIND CODING"
+    }, {
+        "date": "",
+        "heading": "12:30PM EVENT",
+        "tooltip": "CAD DRAWING"
+    }, {
+        "date": "",
+        "heading": "12:30PM EVENT ",
+        "tooltip": "LATHE MASTER"
+    }, {
+        "date": "",
+        "heading": "13:30PM TECH TALK",
+        "tooltip": "ROBOTICS"
+    }, {
+        "date": "",
+        "heading": "14:30 TECH TALK ",
+        "tooltip": "3D PRINTING"
+    }, {
+        "date": "",
+        "heading": "14:30PM EVENT ",
+        "tooltip": "CODE DEBUGGING"
+    }, {
+        "date": "",
+        "heading": "15:30 TECH TALK ",
+        "tooltip": "EXTENDED REALITY"
+    }, {
+        "date": "",
+        "heading": " ",
+        "tooltip": "CIRCUIT DESIGNING"
+    }, {
+        "date": "",
+        "heading": " ",
+        "tooltip": "CIRCUIT DEBUGGING"
+    }, {
+        "date": "",
+        "heading": " ",
+        "tooltip": "TECHNICAL QUIZ"
+    },{
+        "date": "",
+        "heading": " ",
+        "tooltip": " TECHNICAL JAM"
+    }, {
+        "date": "",
+        "heading": " ",
+        "tooltip": "MAZE"
+    },{
+        "date": "",
+        "heading": " ",
+        "tooltip": "MINI MILLITIA"
+    }, {
+        "date": "",
+        "heading": " MANY MORE TECHNICAL AND NON TECHNICAL FUN EVENTS.... ",
+        "tooltip": ""
+    }, {
+        "date": "05-FEB-2020 WEDNESDAY",
+        "heading": " ",
+        "tooltip": ""
+    }, {
+        "date": "",
+        "heading": "09:00am WORKSHOP ",
+        "tooltip": "IoT & ADRUINO"
+    }, {
+        "date": "",
+        "heading": "10:00AM WORKSHOP ",
+        "tooltip": "PROJECT MANAGEMENT"
+    }, {
+        "date": "",
+        "heading": "01:30PM EVENT ",
+        "tooltip": "IDEA PITCHING"
+    }, {
+        "date": "",
+        "heading": "02:00PM OPEN TALK ",
+        "tooltip": "SHADES OF EMOTIONS"
+    }, {
+        "date": "",
+        "heading": " ",
+        "tooltip": "SKY SCRAPER"
+    }, {
+        "date": "",
+        "heading": " ",
+        "tooltip": "ROBO SOCCER"
+    }, {
+        "date": "",
+        "heading": " ",
+        "tooltip": " TREASURE HUNT"
+    }, {
+        "date": "",
+        "heading": " ",
+        "tooltip": "PUBG"
+    }, {
+        "date": "",
+        "heading": " ",
+        "tooltip": "3D PRINTING"
+    }, {
+        "date": "",
+        "heading": " ",
+        "tooltip": ""
+    }
+    
+    ]
+}

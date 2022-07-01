@@ -1,0 +1,44 @@
+{
+    "big": [{
+        "heading": "The official list of events are here.",
+        "tooltip": "The Mystrix schedule for the various events to be conducted within the campus, dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. psum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "pic": "n1.jpg"
+    }],
+    "small": [{
+        "date": "10-02-2020, Thursday",
+        "heading": "",
+        "tooltip": ""
+    }, {
+        "date": "",
+        "heading": "9:30 am",
+        "tooltip": "This is a test notification. Dont mind."
+    }, {
+        "date": "",
+        "heading": "10:00 am",
+        "tooltip": "Hello World"
+    }, {
+        "date": "",
+        "heading": "S6",
+        "tooltip": "Hello WorldHello WorldHello WorldHello WorldHello "
+    }, {
+        "date": "",
+        "heading": "S5",
+        "tooltip": "Hello World"
+    }, {
+        "date": "",
+        "heading": "S6",
+        "tooltip": "Hello WorldHello WorldHello WorldHello WorldHello "
+    }, {
+        "date": "",
+        "heading": "S5",
+        "tooltip": "Hello World"
+    }, {
+        "date": "",
+        "heading": "S6",
+        "tooltip": "Hello WorldHello WorldHello WorldHello WorldHello "
+    }, {
+        "date": "",
+        "heading": "S5",
+        "tooltip": "Hello World"
+    }]
+}
